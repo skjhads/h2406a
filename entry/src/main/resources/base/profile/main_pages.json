@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/component/QiZhongPage",
+    "pages/ShowYe",
+    "pages/component/LiaoTian",
+    "pages/component/LiaoTian1",
+    "pages/component/Lao"
+  ]
+}
